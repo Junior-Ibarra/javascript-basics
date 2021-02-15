@@ -83,7 +83,7 @@ dog.name = devMountainClassPet
 // If the name parameter is anything else, return 'Cool name, NAMEPARAM'
 // with NAMEPARAM being the name parameter being passed in (not literally NAMEPARAM)
 
-let nameCheck 
+let nameCheck = 
 //////////////////PROBLEM 11////////////////////
 
 // Create a function called add that takes in two parameters
